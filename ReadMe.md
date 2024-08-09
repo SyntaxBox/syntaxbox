@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm [Boudjit Abdelhamid](https://hamid.syntaxbox.dev), a passionate full-stack developer with a knack for translating ideas into seamless digital experiences. I thrive on the challenge of bridging the gap between the user-facing beauty of front-end development and the robust functionality of back-end architecture.
 
- <!--- <img src="https://raw.githubusercontent.com/syntaxbox/syntaxbox/output/snake.svg" alt="Snake animation" /> --->
+<img src="https://raw.githubusercontent.com/syntaxbox/syntaxbox/output/snake.svg" alt="Snake animation" />
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/syntaxbox) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@syntaxbox) 
