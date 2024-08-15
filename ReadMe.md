@@ -1,4 +1,4 @@
-# 💫 About Me
+# 🔥 About Me
 
 I'm [Boudjit Abdelhamid](https://hamid.syntaxbox.dev), a passionate full-stack developer with a knack for translating ideas into seamless digital experiences. I thrive on the challenge of bridging the gap between the user-facing beauty of front-end development and the robust functionality of back-end architecture.
 
