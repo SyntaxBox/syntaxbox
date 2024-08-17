@@ -4,7 +4,7 @@ I'm [Boudjit Abdelhamid](https://hamid.syntaxbox.dev), a passionate full-stack d
 
 <img src="https://raw.githubusercontent.com/syntaxbox/syntaxbox/output/snake.svg" alt="Snake animation" />
 
-## 🌐 Socials (**@sytnaxbox**)
+## 🌐 Socials (**@syntaxbox**)
 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/syntaxbox) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@syntaxbox)
 
