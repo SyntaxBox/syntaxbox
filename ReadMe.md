@@ -23,7 +23,7 @@ When I'm not coding, you'll probably find me exploring new technologies, refinin
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB  
 - **State Management:** Zustand, Redux  
 - **DevOps & System Administration:** Docker, Docker Compose, CUPS, nmcli
-**And many many more tools (Boring to mention all of them)**
+- **And many many more tools (Boring to mention all of them)**
 
 #### **🧠 AI & Deep Learning**  
 - **Frameworks:** TensorFlow.js, PyTorch  
