@@ -49,11 +49,11 @@ When I'm not coding, you'll probably find me exploring new technologies, refinin
 
 I’m always excited to connect with like-minded individuals and discuss tech, AI, and open-source contributions.  
 
-📧 **Email:** syntaxbox.dev@proton.me  
-🌐 **Portfolio:** [hamid.syntaxbox.dev](https://hamid.syntaxbox.dev)
-🌐 **Website:** [syntaxbox.dev](https://syntaxbox.dev)
-💼 **LinkedIn:** [Abdelhamid Boudjit](https://www.linkedin.com/in/syntaxbox/)  
-🐦 **X:** [@syntaxbox](https://x.com/syntaxbox)  
+📧 **Email:** syntaxbox.dev@proton.me<br>
+🌐 **Portfolio:** [hamid.syntaxbox.dev](https://hamid.syntaxbox.dev)<br>
+🌐 **Website:** [syntaxbox.dev](https://syntaxbox.dev)<br>
+💼 **LinkedIn:** [Abdelhamid Boudjit](https://www.linkedin.com/in/syntaxbox/)<br>
+🐦 **X:** [@syntaxbox](https://x.com/syntaxbox)
 
 ---
 
