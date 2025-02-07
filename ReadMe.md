@@ -18,7 +18,7 @@ When I'm not coding, you'll probably find me exploring new technologies, refinin
 ### 🛠️ Technical Skills  
 
 #### **💻 Programming & Development**  
-- **Languages:** TypeScript, JavaScript, Python, Lua, Bash  
+- **Languages:** TypeScript, JavaScript, Python, Dart, C, Java, Lua, Bash  
 - **Frontend:** React, Next.js, React Native, Tailwind CSS, Chakra UI  
 - **Backend:** Node.js, Express, PostgreSQL, MongoDB  
 - **State Management:** Zustand, Redux  
