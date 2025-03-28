@@ -30,10 +30,10 @@ When I'm not coding, you'll probably find me exploring new technologies, refinin
 - **Applications:** Face recognition, image classification, generative models  
 
 #### **⚙️ Tools & Workflow**  
-- **Editor:** Neovim (LazyVim configuration)  
+- **Editor:** Neovim (LazyVim configuration) / Visual Studio Code (VS Code)  
 - **Version Control:** Git, GitHub  
 - **OS & Environments:** Arch Linux (hyprland), Debian (dwm), Unix-based systems  
-- **Automation & Productivity:** Shell scripting, tmux, custom status bars (`slstatus`)  
+- **Automation & Productivity:** Shell scripting, tmux
 
 ---
 
